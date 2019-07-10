@@ -39,5 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/hello-my-friend.md
 - _posts/2019-07-08-this-is-a-test.md
